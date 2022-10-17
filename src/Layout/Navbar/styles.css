@@ -1,0 +1,13 @@
+.navigation_bar {
+  height: 100%;
+  display: flex;
+}
+
+.navigation_list {
+  display: flex;
+  flex-grow: auto;
+  align-items: center;
+  height: 100%;
+  overflow-x: scroll;
+  white-space: nowrap;
+}

@@ -1,0 +1,13 @@
+.city_weather_item {
+  width: 800px;
+  margin: 40px auto;
+  /* height: 90px; */
+  height: auto;
+  padding: 10px;
+}
+
+.weathr_main_info {
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+}

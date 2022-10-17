@@ -1,0 +1,16 @@
+.loacation_date_wrapper {
+  width: 100%;
+  height: 80px;
+  padding: 5px 10px;
+}
+.location_name {
+  font-size: 24px;
+  font-weight: 600;
+  color: #fff;
+  margin-bottom: 0;
+}
+
+.location_date {
+  font-size: 16px;
+  font-weight: 600;
+}

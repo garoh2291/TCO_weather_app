@@ -1,0 +1,10 @@
+.new_city_wrapper {
+  width: 100%;
+  height: calc(100% - 50px);
+}
+
+.new_city_form {
+  width: 400px;
+  min-height: 400px;
+  margin: 50px auto;
+}
